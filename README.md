@@ -23,7 +23,7 @@ Welcome to the official repository for the website of MSP Firm, designed and dev
    - Introduction to the law firm, highlighting key areas of expertise and a welcoming message.
 
 2. **About Us:**
-   - Information about the team, their experience, and the firm's values.
+   - Information about the team at MSP, their experience, and the firm's values.
 
 3. **Services:**
    - Details about the legal services offered by the firm.
